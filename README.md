@@ -33,3 +33,9 @@ if Phenom.IsInFooting == true then -- check if player is in correct footing
     Phenom:Shoot() -- this is how u attempt to shoot the ball
 end
 ```
+
+# Disclaimer
+
+This will NOT support all games, and updates the games make may break this
+
+Also, games that use the same rims as another game/league does NOT mean the API is still compatible
