@@ -1,11 +1,3 @@
---[[
-
-Usage:
-
-
-
-]]
-
 local AimbotAPI = {}
 local Metatable = {}
 
