@@ -33,6 +33,16 @@ if Streetball.IsInFooting == true then -- check if player is in correct footing
     Streetball:Shoot() -- this is how u attempt to shoot the ball
 end
 ```
+> DropOffs
+```lua
+local Script = game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Roball-Aimbot-API/main/API.lua")
+local API = loadstring(Script)()
+local DropOffs = API.DropOffs
+
+if DropOffs.IsInFooting == true then -- check if player is in correct footing
+    DropOffs:Shoot() -- this is how u attempt to shoot the ball
+end
+```
 
 # Disclaimer
 
