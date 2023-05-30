@@ -43,6 +43,16 @@ if DropOffs.IsInFooting == true then -- check if player is in correct footing
     DropOffs:Shoot() -- this is how u attempt to shoot the ball
 end
 ```
+> EAU (Season 13)
+```lua
+local Script = game:HttpGet("https://raw.githubusercontent.com/carolesdaughter/Roball-Aimbot-API/main/API.lua")
+local API = loadstring(Script)()
+local EAU = API.EAU
+
+if EAU.IsInFooting == true then -- check if player is in correct footing
+    EAU:Shoot() -- this is how u attempt to shoot the ball
+end
+```
 
 # Disclaimer
 
