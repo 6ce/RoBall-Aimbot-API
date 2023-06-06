@@ -1,7 +1,7 @@
 # Roball-Aimbot-API
 literally an api for aimbotting in roblox basketball (first ever)
 
-# Usage
+# Usage Examples
 
 > Phenom
 ```lua
