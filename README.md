@@ -1,5 +1,5 @@
 # Roball-Aimbot-API
-literally an api for aimbotting in roblox basketball (first ever)
+was gonna be an "api" for aimbotting, exploiting dead so now its just here for no reason
 
 # Usage Examples
 
